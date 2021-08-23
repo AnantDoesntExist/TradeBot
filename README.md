@@ -1,2 +1,2 @@
 # TradeBot
-An algorithmic trading bot based on the Stochastic Oscillator, Average True Range and Money Flow Index. Coded in Python.
+An algorithmic trading bot based on the Stochastic Oscillator, Average True Range and Money Flow Index. Coded in Python. Strategy works 98% of the time. Logs in google sheets. You will have to setup the google service account and the login with your brokerage. For logging in I suggest simply searching up how to login into (brokerage name ex. Binance) with (brokerage name) api. . For google service account setup I suggest this video https://www.youtube.com/watch?v=4ssigWmExak .
